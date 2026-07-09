@@ -1,42 +1,76 @@
-Library Management System
+# Library Management System
 
-A simple Library Management System developed using Python to automate basic library operations such as adding books, searching books, issuing books, returning books, and deleting records. The project is designed as a beginner-friendly Python application using file handling (CSV) for data storage.
+A simple **Library Management System** developed using **Python** to automate basic library operations such as adding books, searching books, issuing books, returning books, and deleting records. The project is designed as a beginner-friendly Python application using file handling (CSV) for data storage.
 
-📖 Project Overview
+---
+
+## 📖 Project Overview
 
 The Library Management System helps librarians manage books efficiently by replacing manual record keeping with a computerized solution. The application provides a menu-driven interface and stores all records in CSV files.
 
-🚀 Features
-📚 Add New Books
-🔍 Search Books
-📋 View All Books
-📤 Issue Books
-📥 Return Books
-🗑 Delete Books
-💾 Store Data using CSV Files
-🖥 Simple Menu-Driven Interface
-🛠 Technologies Used
-Python 3.x
-CSV File Handling
-Object-Oriented Programming (Optional)
-Visual Studio Code
-📂 Project Structure
+---
+
+## 🚀 Features
+
+* 📚 Add New Books
+* 🔍 Search Books
+* 📋 View All Books
+* 📤 Issue Books
+* 📥 Return Books
+* 🗑 Delete Books
+* 💾 Store Data using CSV Files
+* 🖥 Simple Menu-Driven Interface
+
+---
+
+## 🛠 Technologies Used
+
+* Python 3.x
+* CSV File Handling
+* Object-Oriented Programming (Optional)
+* Visual Studio Code
+
+---
+
+## 📂 Project Structure
+
+```text
 Library-Management-System/
 │
 ├── main.py
 ├── books.csv
 ├── README.md
 ├── requirements.txt
-├── LICENSE
 └── report/
-⚙ Installation
-Clone the Repository
+```
+
+---
+
+## ⚙ Installation
+
+### Clone the Repository
+
+```bash
 git clone https://github.com/your-username/Library-Management-System.git
-Open the Project Folder
+```
+
+### Open the Project Folder
+
+```bash
 cd Library-Management-System
-Run the Application
+```
+
+### Run the Application
+
+```bash
 python main.py
-💻 Sample Menu
+```
+
+---
+
+## 💻 Sample Menu
+
+```text
 ===================================
    LIBRARY MANAGEMENT SYSTEM
 ===================================
@@ -49,47 +83,57 @@ python main.py
 7. Exit
 ===================================
 Enter your choice:
-📸 Screenshots
+```
 
-Add screenshots of your application inside the screenshots/ folder.
+---
 
-Example:
+---
 
-Home Screen
-Add Book
-Search Book
-Issue Book
-Return Book
-📊 Future Enhancements
-GUI using Tkinter
-SQLite/MySQL Database
-User Login Authentication
-Barcode Scanner Integration
-Book Reservation System
-Fine Calculation
-Web Application using Flask or Django
-Mobile Application Support
-🎯 Learning Outcomes
-Python Programming
-File Handling (CSV)
-Menu-Driven Application Development
-Problem Solving
-Software Testing
-Git & GitHub
-👨‍💻 Author
+## 📊 Future Enhancements
 
-Name:naveen raj
+* GUI using Tkinter
+* SQLite/MySQL Database
+* User Login Authentication
+* Barcode Scanner Integration
+* Book Reservation System
+* Fine Calculation
+* Web Application using Flask or Django
+* Mobile Application Support
 
-Project: Library Management System
+---
 
-Language: Python
+## 🎯 Learning Outcomes
 
-Internship: Winter Internship 2026
+* Python Programming
+* File Handling (CSV)
+* Menu-Driven Application Development
+* Problem Solving
+* Software Testing
+* Git & GitHub
 
-📄 License
+---
 
-This project is licensed under the MIT License.
+## 👨‍💻 Author
 
-⭐ GitHub
+**Name:**Naveen Raj
+
+**Project:** Library Management System
+
+**Language:** Python
+
+**Internship:** Winter Internship 2026
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## ⭐ GitHub
+
+If you found this project useful, please **Star ⭐ the repository** and feel free to fork it for learning and improvements.
+
 
 If you found this project useful, please Star ⭐ the repository and feel free to fork it for learning and improvements.
