@@ -1,0 +1,21 @@
+Book ID,Book Name,Author,Status
+B001,Python Programming,Guido van Rossum,Available
+B002,Data Structures in Python,Mark Lutz,Available
+B003,Machine Learning Basics,Aurélien Géron,Issued
+B004,Artificial Intelligence,Stuart Russell,Available
+B005,Computer Networks,Andrew S. Tanenbaum,Available
+B006,Database Management Systems,Raghu Ramakrishnan,Issued
+B007,Operating System Concepts,Abraham Silberschatz,Available
+B008,C Programming,Dennis Ritchie,Available
+B009,Java Complete Reference,Herbert Schildt,Available
+B010,Software Engineering,Ian Sommerville,Available
+B011,Computer Organization,Carl Hamacher,Available
+B012,Web Development with HTML & CSS,Jon Duckett,Available
+B013,JavaScript Essentials,David Flanagan,Available
+B014,Learning SQL,Alan Beaulieu,Issued
+B015,Cyber Security Basics,William Stallings,Available
+B016,Cloud Computing,Rajkumar Buyya,Available
+B017,Data Science Handbook,Jake VanderPlas,Available
+B018,Deep Learning,Ian Goodfellow,Available
+B019,Introduction to Algorithms,Thomas H. Cormen,Issued
+B020,Computer Graphics,Donald Hearn,Available
